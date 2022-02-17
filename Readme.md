@@ -1,4 +1,4 @@
-# PEMROGRAMAN BERBASIS FRAMWORK 
+# Pemrograman Berbasis Framework
 
 ## NAMA  : MUHAMMAD NAVIS ABDILLAH
 ## KELAS : TI 3A
