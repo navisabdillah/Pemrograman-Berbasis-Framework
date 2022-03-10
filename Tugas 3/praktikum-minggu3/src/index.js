@@ -8,6 +8,20 @@ import HelloComponent from './HelloComponent';
 import Login from './Login';
 import Navis from './Navis';
 
+// function HelloComponent () {
+//   return HelloComponent
+// }
+// ReactDOM.render(
+//   <React.StrictMode>
+//     <App />
+//   </React.StrictMode>,
+//   document.getElementById('root')
+// );
+
+// function HelloComponent () {
+//   return HelloComponent
+// }
+
 //ReactDOM.render(
  // <React.StrictMode>
     //<App />
@@ -16,14 +30,14 @@ import Navis from './Navis';
 //);
 
 //class StateFullComponent extends React.Component{
-  //render(){
-   // return <p>StateFullComponent</p>
-  //}
+//render(){
+ //return <p>StateFullComponent</p>
+//}
 //}
 
-//ReactDOM.render(<StateFullComponent/>, document.getElementById('root'));
+ReactDOM.render(<StateFullComponent/>, document.getElementById('root'));
 //ReactDOM.render(<Login/>, document.getElementById('root'));
-ReactDOM.render(<Navis/>, document.getElementById('root'));
+//ReactDOM.render(<Navis/>, document.getElementById('root'));
 
 
 // If you want to start measuring performance in your app, pass a function
