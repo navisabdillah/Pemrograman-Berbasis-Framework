@@ -35,8 +35,8 @@ import Navis from './Navis';
 //}
 //}
 
-ReactDOM.render(<StateFullComponent/>, document.getElementById('root'));
-//ReactDOM.render(<Login/>, document.getElementById('root'));
+//ReactDOM.render(<StateFullComponent/>, document.getElementById('root'));
+ReactDOM.render(<Login/>, document.getElementById('root'));
 //ReactDOM.render(<Navis/>, document.getElementById('root'));
 
 
