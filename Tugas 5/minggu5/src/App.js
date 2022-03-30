@@ -70,7 +70,7 @@ import {
 //        );
 //     }
 
-   // Praktikum 2
+   //Praktikum 2
 // export default function BasicExample() {
 //   return (
 //     <Router>
